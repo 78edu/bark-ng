@@ -1,4 +1,4 @@
-![bark-ng screenshot](/bark-ng.png)
+![bark-ng screenshot](/bark-ng2.png)
 # bark-ng
 Blog engine written in PHP
 <br>
